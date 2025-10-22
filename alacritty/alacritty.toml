@@ -1,0 +1,12 @@
+import = [
+  "~/.config/alacritty/catppuccin-mocha.toml"
+]
+
+[window]
+decorations = "Transparent"
+opacity = 0.7
+title = "Alacritty"
+
+[font]
+normal.family = "TerminalVector"
+size = 14.0
